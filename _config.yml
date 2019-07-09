@@ -68,20 +68,20 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Feito com amor, seus monitores. S2
-  email: "mcardosos99@gmail.com"
+  email: "yourname@gmail.com"
   # facebook: anuditverma
-  github: Cardosaum
-  twitter: _cardosaum_
+  github: yourname
+  twitter: yourname
   # google-plus: +AnuditVerma
-  linkedin: matheus-c-souza
-  stackoverflow: 10719703/evem-mc
-  instagram: cardosaum
-  reddit: Evem_MC
+  linkedin: yourname
+  stackoverflow: yourname
+  instagram: yourname
+  reddit: yourname
 # xing: yourname
 # stackoverflow: yourlink  # eg. "3943160/daattali"
 # snapchat: yourname
 # youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: cardosaum
+  spotify: yourname
 # steam: yourname
 # twitch: yourname
 # yelp: yourname
