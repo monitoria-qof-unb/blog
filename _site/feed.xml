@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Química Orgânica Fundamental</title>
+    <description>Hey, bora aprender</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Um Site/Blog pra ajudar você nessa matéria linda!</title>
+        <description>
+          
+          Abertura do site para monitoria de QOF! Meus queridos, estamos criando um site para vocês com a finalidade de postar: Cronogramas Semanais Listas de Exercícios Dicas de Estudo A ideia é que, semanalmente, vocês abram esse site para pegar quais capítulos terão que ler de teoria, quais exercícios fazer, etc.....
+        </description>
+        <pubDate>Tue, 09 Jul 2019 19:55:47 +0000</pubDate>
+        <link>http://localhost:4000/2019-07-09-abertura_do_site/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-07-09-abertura_do_site/</guid>
+      </item>
+    
+  </channel>
+</rss>

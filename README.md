@@ -1,2 +1,1 @@
-# blog
-Esse é um site para que os alunos possam ser notificados de atividades, listas de exercício, cronogramas e dicas nos estudos :)
+### This repository contains files used to create my website, you can see the website [here](http://anuditverma.github.io/).
