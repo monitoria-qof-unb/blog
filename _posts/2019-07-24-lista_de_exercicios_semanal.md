@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lista de Exercícios Semanais"
+title:  "Cronograma Semanal"
 date:   2019-07-09 16:55:47 -0300
 categories: avisos
 tags: [Organização, Lista de Exercícios, Cronograma]
@@ -12,7 +12,7 @@ tags: [Organização, Lista de Exercícios, Cronograma]
 
 Olá!
 
-Nesse post você vai encontrar a lista com de exercícios de todas as semanas do curso de QOF
+Nesse post você vai encontrar o cronograma com os tópicos que vem ser estudados.
 
 
 ### Semana 1
