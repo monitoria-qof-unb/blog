@@ -19,10 +19,14 @@ Para iniciarmos os estudos de forma bem organizada, nós preparamos esse post pr
 
 Como você terá aulas teóricas com a professora Murta nas  ***<ADICIONAR_DIA_E_HORA - Ex: Terça e quinta, das 10:00 às 12:00>***, pensamos em te ajudar com a parte dos execícios, tirando dúvidas nas monitorias.<br>
 
-Nós nos reunimos com a professora antes das aulas começarem para acertarmos direitinho qual seria a teoria passada em cada semana. Assim, propomos que você estude, semanalmente, uma lista de tópicos e faça todos exercícios ~~(ou o quanto conseguir)~~. (Mas sério, se esforce. Essa matéria é muito importante)<br>
+Nós nos reunimos com a professora antes das aulas começarem para acertarmos direitinho qual seria a teoria passada em cada semana. Assim, propomos que você estude, semanalmente, uma lista de tópicos e faça todos exercícios ~~(ou o quanto conseguir)~~. (Mas sério, se [esforce](/img/orientacoes_gerais/you_can_do_it.gif). Essa matéria é muito importante)<br>
 
-![E você consege!](/img/orientacoes_gerais/you_can_do_it.gif)
 
+
+
+Livros escolhidos:
+
+[]() - [Acesse pelo _Minha Biblioteca_](https://integrada.minhabiblioteca.com.br/#/books/9788521632757). Esse é voltado para exercícios.
 
 ### Semana 1
 
