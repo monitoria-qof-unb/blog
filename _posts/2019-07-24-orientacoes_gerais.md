@@ -11,15 +11,17 @@ tags: [Organização, Orientações]
 
 Olá!
 
-As aulas já estão quase começando... E aí, animado? :D<br>
+As aulas já estão quase começando... E aí, animado?   :D<br>
 
 Para iniciarmos os estudos de forma bem organizada, nós preparamos esse post pra você. A partir de agora, abordaremos como seu curso de Química está organizado esse semestre.
 
 ## Fluxo de Estudo
 
-Como vocês terão aulas teóricas com a professora Murta nas  ***<ADICIONAR_DIA_E_HORA - Ex: Terça e quinta, das 10:00 às 12:00>***, pensamos em ajudá-los com a parte dos execícios, tirando dúvidas nas monitorias.<br>
+Como você terá aulas teóricas com a professora Murta nas  ***<ADICIONAR_DIA_E_HORA - Ex: Terça e quinta, das 10:00 às 12:00>***, pensamos em te ajudar com a parte dos execícios, tirando dúvidas nas monitorias.<br>
 
-Nós nos reunimos com a professora antes das aulas começarem para acertarmos direitinho qual seria a teoria passada em cada semana. Assim, propomos a vocês que estudem, semanalmente, uma lista de tópicos e façam todos exercícios ~~(ou o quanto conseguirem)~~. (Mas sério se esforcem. Essa matéria é muito importante)
+Nós nos reunimos com a professora antes das aulas começarem para acertarmos direitinho qual seria a teoria passada em cada semana. Assim, propomos que você estude, semanalmente, uma lista de tópicos e faça todos exercícios ~~(ou o quanto conseguir)~~. (Mas sério, se esforce. Essa matéria é muito importante)<br>
+
+![E você consege!](/img/orientacoes_gerais/you_can_do_it.gif)
 
 
 ### Semana 1
