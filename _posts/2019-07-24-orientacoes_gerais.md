@@ -26,8 +26,7 @@ Nós nos reunimos com a professora antes das aulas começarem para acertarmos di
 
 Livros escolhidos:
 
- - [Química orgânica - Klein, David](https://www.amazon.com.br/Química-Orgânica-1-David-Klein/dp/8521631057) - [Acesse pelo _Minha Biblioteca_](https://integrada.minhabiblioteca.com.br/#/books/9788521631934)
- - [Química orgânica: uma aprendizagem baseada em solução de problemas - Klein, David](https://www.amazon.com.br/Química-Orgânica-Aprendizagem-Baseada-Problemas-ebook/dp/B073DPW9Z9) - [Acesse pelo _Minha Biblioteca_](https://integrada.minhabiblioteca.com.br/#/books/9788521632757). Esse é voltado para exercícios.
+
 
 ### Semana 1
 
