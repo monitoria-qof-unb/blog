@@ -6,7 +6,7 @@ categories: avisos
 tags: [Organização, Lista de Exercícios, Cronograma]
 ---
 
-# Lista de exercícios semanais
+# Breve Organização Para Início de Semestre
 
 ---
 
@@ -21,7 +21,7 @@ Dê uma olhada especialmente nos autores John McMurry e David Klein. Ambos estã
 Só compre os livros didáticos se você tiver certeza de que deseja tê-los em sua biblioteca pessoal. Caso contrário, vai gastar muito dinheiro em um recurso que usará pouco...<br>
 <br>
 
-Para você ter um overview do que aprenderá, saca só vídeo ;)  haha
+Para você ter um overview do que aprenderá, saca só esse vídeo ;)    haha
 
  <iframe width="750" height="450"
 src="https://www.youtube.com/embed/f8FAJXPBdOg">
