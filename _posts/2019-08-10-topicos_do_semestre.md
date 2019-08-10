@@ -63,99 +63,92 @@ Como mencionado anteriormente, acesse o [sumário](https://drive.google.com/open
 ## Parte 1 - Introdução
 
  - Revisão - nomenclatura IUPAC,
-Reações orgânicas,
-perfil energético,
-termodinâmica,
-estado de oxidação do carbono (energia química) - combustíveis e extintores
-craqueamento do petróleo
+ - Reações orgânicas,
+ - Perfil energético,
+ - Termodinâmica,
+ - Estado de oxidação do carbono (energia química) - combustíveis e extintores,
+ - Craqueamento do petróleo.
 
 
 ## Parte 2 - O Espectro Eletromagnético 1
 
-Modelos atômicos
-Relações entre as faixas do espectro e a matéria,
-infravermelho e o efeito estufa
-radiação visível e a fotossíntese
-ultravioleta e a camada de ozônio
+ - Modelos atômicos,
+ - Relações entre as faixas do espectro e a matéria,
+ - Infravermelho e o efeito estufa,
+ - Radiação visível e a fotossíntese,
+ - Ultravioleta e a camada de ozônio.
 
 
 ## Parte 3 - Teoria dos Orbitais Moleculares
 
-modelos estruturais (Lewis, ligação de valência, teoria de orbitais moleculares)
-orbitais atômicos
-teoria dos orbitais moleculares,
-diagrama de orbitais moleculares do oxigênio (paramagnetismo),
-diagrama de orbitais moleculares do nitrogênio
+ - Modelos estruturais (Lewis, ligação de valência, teoria de orbitais moleculares),
+ - Orbitais atômicos,
+ - Teoria dos orbitais moleculares,
+ - Diagrama de orbitais moleculares do oxigênio (paramagnetismo),
+ - Diagrama de orbitais moleculares do nitrogênio.
 
 
 ## Parte 4 - O Espectro Eletromagnético 2
 
-ligações duplas conjugadas e absorção de radiação,
-absorção de uv-visível - exemplos,
-o espectro eletromagnético e diagramas de energia,
-diagrama de Jablonski,
+- Ligações duplas conjugadas e absorção de radiação,
+- Absorção de uv-visível - exemplos,
+- O espectro eletromagnético e diagramas de energia,
+- Diagrama de Jablonski.
 
 
 ## Parte 5 - Forças Intermoleculares e Interações Não-Covalentes
 
-Diferença entre forças intermoleculares e interações não-covalentes
-Momento de dipolo
-Tipos de forças intermoleculares
-- energia
-- polaridade
-- ponto de ebulição e ponto de fusão
-- solubilidade
-- densidade
-exemplos
+ - Diferença entre forças intermoleculares e interações não-covalentes,
+ - Momento de dipolo,
+ - Tipos de forças intermoleculares.
 
 
 ## Parte 6 - Análise Conformacional
 
-projeção de newman,
-análise conformacional de cicloalcanos - tensão de anel,
-análise conformacional do ciclohexano,
-isomeria,
-enantiômeros,
-- nomenclatura R-S
-- desvio da luz polarizada, misturas racêmicas
-diastereoisômeros,
-mutarrotação da glicose (mecanismo e respectivos polímeros),
+ - Projeção de newman,
+ - Análise conformacional de cicloalcanos - tensão de anel,
+ - Análise conformacional do ciclohexano,
+ - Isomeria,
+ - Enantiômeros,
+ - Nomenclatura R-S,
+ - Desvio da luz polarizada,
+ - Misturas racêmicas,
+ - Diastereoisômeros,
+ - Mutarrotação da glicose (mecanismo e respectivos polímeros).
 
 
 ## Parte 7 - Acidez e Basicidade
 
-conceitos ácido base,
-ácidos e bases orgânicas,
-Keq e Ka,
-Ka da água,
-pH x pKa,
-força de ácidos (eletronegatividade, tamanho do átomo, hibridização, ressonância, efeito indutivo, presença de cargas),
-pKb e KaH,
-ressonância em aminas cíclicas,
-teoria de Lewis (eletrófilos e nucleófilos),
-marcha química,
-hard and soft acids and bases theory,
-Soluções tampão,
-tampão do sangue,
-pressão parcial do O2 e CO2 no corpo,
+ - Conceitos ácido base,
+ - Ácidos e bases orgânicas,
+ - Keq e Ka,
+ - Ka da água,
+ - pH x pKa,
+ - Força de ácidos (eletronegatividade, tamanho do átomo, hibridização, ressonância, efeito indutivo, presença de cargas),
+ - pKb e KaH,
+ - Ressonância em aminas cíclicas,
+ - Teoria de Lewis (eletrófilos e nucleófilos),
+ - Marcha química,
+ - Hard and soft acids and bases theory,
+ - Soluções tampão,
+ - Tampão do sangue,
+ - Pressão parcial do O2 e CO2 no corpo,
 
 
 ## Parte 8 - Reações orgânicas
 
-Intermediários reativos
-Alcanos
-- 3 reações
-Alcenos
-- 5 reações
-- regra de Markovnikov
-Aromáticos
-- regra de Huckel para aromáticos
-- 5 reações
-Compostos halogenados - Reações SN1 e SN2
-- escolha de solventes
-Substituição nucleofílica em derivados de ácido carboxílico
-Álcoois, éteres,  fenóis e tiocompostos análogos
-Aminas*
-Aldeídos e cetonas*
-
-*estão na ementa, mas a professora não conseguiu passar o conteúdo para nossa turma
+ - Intermediários reativos
+ - Alcanos
+  - 3 reações
+ - Alcenos
+  - 5 reações
+  - Regra de Markovnikov
+ - Aromáticos
+  - Regra de Huckel para aromáticos
+  - 5 reações
+ - Compostos halogenados - Reações SN1 e SN2
+  - Escolha de solventes
+ - Substituição nucleofílica em derivados de ácido carboxílico
+ - Álcoois, éteres,  fenóis e tiocompostos análogos
+ - Aminas
+ - Aldeídos e cetonas
