@@ -27,7 +27,7 @@ description: Hey, bora aprender
 # List of links in the navigation bar
 navbar-links:
   # Uns livro ai: "livros"
-  Sobre os monitores: "aboutme"
+  # Sobre os monitores: "aboutme"
   # Aqui fica uma lista:
   #   - A framework of smart homes connected devices using Internet of Things: "http://ieeexplore.ieee.org/document/7918794/"
   #   - Google Scholar Profile: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
