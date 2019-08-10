@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Cronograma Semanal"
-date:   2019-07-09 16:55:47 -0300
+title:  "Tópicos Estudados no Semestre"
+date:   2019-08-10 16:55:47 -0300
 categories: avisos
 tags: [Organização, Lista de Exercícios, Cronograma]
 ---
@@ -35,7 +35,8 @@ Don't worry my friend!<br>
 ---
 
 
-Agora, listaremos  os tópicos que serão abordados:<br>
+Agora, listaremos  os tópicos que serão abordados.<br>
+Como utilizaremos, em maior parte, as listas do Hexag, é bom que você entenda como esse material está organizado.
 <br>
 
 ## Parte 1 - Introdução
