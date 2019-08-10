@@ -17,7 +17,7 @@ Fizemos um drive com listas de exercícios de todos os tópicos abordados. [dá 
 <br>
 Escolhemos utilizar como fonte de exercícios as apostilas do Hexag, um cursinho pré-vestibular de ótima qualidade, [com uma filosofia muito bacana](http://cursinhoparamedicina.com.br/hexag-solidario/) e também [listas feitas pela professora Murta em semestres anteriores](https://drive.google.com/open?id=16vfn8j4N8QqdKFHM51QNiCv5p42yj2h0).<br>
 Como utilizaremos, em maior parte, as listas do Hexag, é bom que você entenda como esse material está organizado.<br>
-[No Drive](https://drive.google.com/open?id=1U7JhWVtD52Uxv0OWvq6D3I1NSfwQruHw), dentro da pasta `/lista_de_exercicios/` você encontrará o arquivo de [sumário](https://drive.google.com/open?id=19dsRPmBwImekZeyE5zGpK8G1U5Atr5zv) e uma série de listas nomeadas com o padrão `hexag_quimica_V*x*_F*x*_A*x*`. Os livros do hexag são divididos por **V**olumes, **F**rentes e **A**ulas (que seriam os capítulos). Essa é a explicação da nomenclatura. Portanto, um arquivo com nome `hexag_quimica_V1_F1_A01`, significa: Lista de exercícios da aula 01, frente 01, do volume 01 da matéria de química.<br>
+[No Drive](https://drive.google.com/open?id=1U7JhWVtD52Uxv0OWvq6D3I1NSfwQruHw), dentro da pasta `/lista_de_exercicios/` você encontrará o arquivo de [sumário](https://drive.google.com/open?id=19dsRPmBwImekZeyE5zGpK8G1U5Atr5zv) e uma série de listas nomeadas com o padrão `hexag_quimica_Vx_Fx_Ax`. Os livros do hexag são divididos por ***V***olumes, ***F***rentes e ***A***ulas (que seriam os capítulos). Essa é a explicação da nomenclatura. Portanto, um arquivo com nome `hexag_quimica_V1_F1_A01`, significa: Lista de exercícios da aula 01, frente 01, do volume 01 da matéria de química.<br>
 
 As apostilas apresentam algumas seções de exercícios. Citando parte do material deles:
 <br>
@@ -58,7 +58,7 @@ Don't worry my friend!<br>
 
 
 Agora, listaremos  os tópicos que serão abordados.<br>
-
+Como mencionado anteriormente, acesse o [sumário](https://drive.google.com/open?id=19dsRPmBwImekZeyE5zGpK8G1U5Atr5zv) para localizar em qual *Aula*, *Frente* e *Volume* está o tópico que você deseja estudar.<br>
 
 ## Parte 1 - Introdução
 
