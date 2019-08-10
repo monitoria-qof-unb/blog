@@ -14,10 +14,10 @@ Olá!
 
 Nesse post você vai encontrar o cronograma com os tópicos que devem ser estudados ao longo do semestre.
 
-Para você ter um overview do que aprenderá, dê uma olhada nesse vídeo :D haha
+Para você ter um overview do que aprenderá, dê uma olhada nesse vídeo ;) haha
 
- <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=f8FAJXPBdOg">
+ <iframe
+src="https://www.youtube.com/embed/f8FAJXPBdOg">
 </iframe>
 
 
