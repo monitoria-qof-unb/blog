@@ -42,6 +42,7 @@ Só compre os livros didáticos se você tiver certeza de que deseja tê-los em 
  - [Química orgânica - Klein, David](https://www.amazon.com.br/Química-Orgânica-1-David-Klein/dp/8521631057) - [Acesse pelo _Minha Biblioteca_](https://integrada.minhabiblioteca.com.br/#/books/9788521631934)
  - [Química orgânica: uma aprendizagem baseada em solução de problemas - Klein, David](https://www.amazon.com.br/Química-Orgânica-Aprendizagem-Baseada-Problemas-ebook/dp/B073DPW9Z9) - [Acesse pelo _Minha Biblioteca_](https://integrada.minhabiblioteca.com.br/#/books/9788521632757). Esse é voltado para exercícios.
  <br>
+ <br>
  Essa seria nossa sugestão primária de recursos para você aprender a teoria.
 
 ***Dica:*** *Conheça também os materiais do [OpenStax](https://openstax.org/subjects). São de excelente qualidade!*
