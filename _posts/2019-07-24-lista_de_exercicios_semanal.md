@@ -13,18 +13,34 @@ tags: [Organização, Lista de Exercícios, Cronograma]
 Olá!
 
 Nesse post você vai encontrar o cronograma com os tópicos que devem ser estudados ao longo do semestre.<br>
-Fizemos um drive com listas de exercícios de praticamente todos os tópicos abordados. [dá uma olhada](https://drive.google.com/open?id=12TnftNq8_2dBSKGif7U6k1Vi0TJoE9WL)
+Fizemos um drive com listas de exercícios de todos os tópicos abordados. [dá uma olhada](https://drive.google.com/open?id=17R10r10o04tcRGsy-vYgHDMSMCladhyK)<br>
+<br>
+Escolhemos utilizar como fonte de exercícios as apostilas do Hexag, um cursinho pré-vestibular de ótima qualidade, [e com uma filosofia muito bacana](http://cursinhoparamedicina.com.br/hexag-solidario/).<br>
+Como você pôde perceber no drive, nós só colocamos as listas de exercícios. Para o estudo de teoria, recomendamos que você **empreste** algum livro na [BCE](https://www.bce.unb.br/). Lá você pode optar por algum livro online ou físico, depende de sua preferência.<br>
+Dê uma olhada especialmente nos autores John McMurry e David Klein. Ambos estão disponíveis na BCE, e em português.<br>
+Só compre os livros didáticos se você tiver certeza de que deseja tê-los em sua biblioteca pessoal. Caso contrário, vai gastar muito dinheiro em um recurso que usará pouco...<br>
+<br>
 
-Para você ter um overview do que aprenderá, saca só vídeo ;) haha
+Para você ter um overview do que aprenderá, saca só vídeo ;)  haha
 
  <iframe width="750" height="450"
 src="https://www.youtube.com/embed/f8FAJXPBdOg">
 </iframe>
 
+Pois é, pode até parecer que é pouca matéria e é bem tranquilo, mas exigirá de você um esforço considerável.<br>
+Don't worry my friend!<br>
+*As raízes do estudo são amargas, mas seus frutos são doces.*<br>
+<br>
+
+---
+
+
+Agora, listaremos  os tópicos que serão abordados:<br>
+<br>
 
 ## Parte 1 - Introdução
 
-Revisão - nomenclatura IUPAC,
+ - Revisão - nomenclatura IUPAC,
 Reações orgânicas,
 perfil energético,
 termodinâmica,
@@ -71,7 +87,7 @@ Tipos de forças intermoleculares
 exemplos
 
 
-##Parte 6 - Análise Conformacional
+## Parte 6 - Análise Conformacional
 
 projeção de newman,
 análise conformacional de cicloalcanos - tensão de anel,
