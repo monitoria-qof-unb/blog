@@ -33,7 +33,7 @@ Basicamente, as seções vão de exercícios fáceis a difíceis. Recomendamos q
 
 <br>
 <br>
-Como você pôde perceber no drive, nós só colocamos as listas de exercícios. Para o estudo de teoria, recomendamos que você **empreste** algum livro na [BCE](https://www.bce.unb.br/). Lá você pode optar por algum livro online ou físico, depende de sua preferência.<br>
+Como você pôde perceber no drive, nós só colocamos as listas de exercícios. Para o estudo de teoria, recomendamos que você empreste algum livro na [BCE](https://www.bce.unb.br/). Lá você pode optar por algum livro online ou físico, depende de sua preferência.<br>
 Dê uma olhada especialmente nos autores John McMurry e David Klein. Ambos estão disponíveis na BCE, e em português.<br>
 Só compre os livros didáticos se você tiver certeza de que deseja tê-los em sua biblioteca pessoal. Caso contrário, vai gastar muito dinheiro em um recurso que usará pouco...<br>
 <br>
