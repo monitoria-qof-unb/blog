@@ -12,11 +12,12 @@ tags: [Organização, Lista de Exercícios, Cronograma]
 
 Olá!
 
-Nesse post você vai encontrar o cronograma com os tópicos que devem ser estudados ao longo do semestre.
+Nesse post você vai encontrar o cronograma com os tópicos que devem ser estudados ao longo do semestre.<br>
+Fizemos um drive com listas de exercícios de praticamente todos os tópicos abordados. [dá uma olhada]()
 
-Para você ter um overview do que aprenderá, dê uma olhada nesse vídeo ;) haha
+Para você ter um overview do que aprenderá, saca só vídeo ;) haha
 
- <iframe
+ <iframe width="750" height="450"
 src="https://www.youtube.com/embed/f8FAJXPBdOg">
 </iframe>
 
