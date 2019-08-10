@@ -19,15 +19,15 @@ Escolhemos utilizar como fonte de exercícios as apostilas do Hexag, um cursinho
 Como utilizaremos, em maior parte, as listas do Hexag, é bom que você entenda como esse material está organizado.<br>
 As apostilas apresentam algumas seções de exercícios. Citando parte do material deles:<br>
 <br>
-**E.O. Aprendizagem**: exercícios introdutórios de múltipla escolha, para iniciar o processo de fixação da matéria estudada em aula;<br>
-**E.O. Fixação**: exercícios de múltipla escolha, que apresentam grau médio de dificuldade, buscando a consolidação do aprendizado;<br>
-**E.O. Complementar**: exercícios de múltipla escolha com alto grau de dificuldade;<br>
-**E.O. Dissertativo**: exercícios dissertativos seguindo a forma da segunda fase dos principais vestibulares do Brasil;<br>
-**E.O. Enem**: exercícios que abordam a aplicação de conhecimentos em situações do cotidiano, preparando o aluno para esse tipo de exame;<br>
-**E.O. UERJ- Exame de Qualificação**: exercícios de múltipla escolha, buscando a consolidação do aprendizado para o vestibular da UERJ;<br>
-**E.O. UERJ- Exame Discursivo**: exercícios dissertativos nos moldes da segunda fase da UERJ;<br>
-**E.O. (Unesp, Unicamp, Fuvest e Unifesp)-Questões Objetivas**: exercícios de múltipla escolha, das Faculdades públicas de São Paulo;<br>
-**E.O. (Unesp,Unicamp, Fuvest e Unifesp)-Questões Dissertativas**: exercícios dissertativos da segunda fase das Faculdades públicas de São Paulo.<br>
+ - **E.O. Aprendizagem**: exercícios introdutórios de múltipla escolha, para iniciar o processo de fixação da matéria estudada em aula;<br>
+ - **E.O. Fixação**: exercícios de múltipla escolha, que apresentam grau médio de dificuldade, buscando a consolidação do aprendizado;<br>
+ - **E.O. Complementar**: exercícios de múltipla escolha com alto grau de dificuldade;<br>
+ - **E.O. Dissertativo**: exercícios dissertativos seguindo a forma da segunda fase dos principais vestibulares do Brasil;<br>
+ - **E.O. Enem**: exercícios que abordam a aplicação de conhecimentos em situações do cotidiano, preparando o aluno para esse tipo de exame;<br>
+ - **E.O. UERJ- Exame de Qualificação**: exercícios de múltipla escolha, buscando a consolidação do aprendizado para o vestibular da UERJ;<br>
+ - **E.O. UERJ- Exame Discursivo**: exercícios dissertativos nos moldes da segunda fase da UERJ;<br>
+ - **E.O. (Unesp, Unicamp, Fuvest e Unifesp)-Questões Objetivas**: exercícios de múltipla escolha, das Faculdades públicas de São Paulo;<br>
+ - **E.O. (Unesp,Unicamp, Fuvest e Unifesp)-Questões Dissertativas**: exercícios dissertativos da segunda fase das Faculdades públicas de São Paulo.<br>
 <br>
 Basicamente, as seções vão de exercícios fáceis a difíceis. Recomendamos que você priorize resolver exercícios das seções: **E.O. Dissertativo**, **E.O. (Unesp, Unicamp, Fuvest e Unifesp)-Questões Objetivas** e **E.O. (Unesp,Unicamp, Fuvest e Unifesp)-Questões Dissertativas**. As 2 provas que você fará ao longo do semestre são no estilo *Dissertativo*, então é bom estar preparado para elas.  ;)<br>
 
