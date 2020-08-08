@@ -1,1 +1,1 @@
-### This repository contains files used to create my website, you can see the website [here](http://anuditverma.github.io/).
+### This repository contains files used to create the website for Organic Chemistry's subject, you can see the website [here](http://monitoria-qof-unb.github.io/).
